@@ -24,3 +24,11 @@ This project fetches live weather information using the OpenWeatherMap API.
 pip install -r requirements.txt
 
 python main.py
+
+## Output Screenshots
+
+### Weather Report - Mumbai
+
+![Output 1](screenshots/output1.png)
+
+---
